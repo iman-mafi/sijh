@@ -1,0 +1,30 @@
+#life-counter {
+  float: right;
+  height: 70;
+  width: 100;
+  background-color: red;
+  padding: 30px;
+  margin-right: 100px;
+  display: inline;
+  font-size: 30px;
+  font-family: Impact;
+  border-radius: 10px;
+}
+
+#canvas {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  display: inline;
+  margin-left: 100px;
+}
+
+canvas {
+  display: inline;
+}
+
+h1 {
+  text-align: center;
+  font-family: Impact;
+  font-size: 50px;
+}
